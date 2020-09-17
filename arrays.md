@@ -22,8 +22,7 @@ def threeSum(self, nums):
                     return result
 ```
 ## Subarray Sum Equals K
-https://leetcode.com/problems/subarray-sum-equals-k/v
-
+https://leetcode.com/problems/subarray-sum-equals-k/
 ```python
 
 
