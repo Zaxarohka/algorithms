@@ -20,7 +20,14 @@ def twoSum(self, nums, target):
 https://leetcode.com/problems/3sum/
 
 ```python
-
+def threeSum(self, nums):
+    result=[]
+    for i in range(len(nums)-3):
+        for g in range(1,len(nums)-2):
+            for l in range (2, len(nums)-1):
+                if nums[i]+nums[g]+nums[l]==0:
+                    result=[i,g,l]
+                    return result
 ```
 ## Subarray Sum Equals K
 https://leetcode.com/problems/subarray-sum-equals-k/v
