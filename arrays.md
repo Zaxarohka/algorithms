@@ -6,7 +6,15 @@
 ## Two Sum
 https://leetcode.com/problems/two-sum/
 
+```python
+def twoSum(self, nums, target):
+    result=[]
+    for i in range(len(nums)-1):
+        if nums[i]+nums[i+1]==target:
+            result=[i,i+1]
+    return result 
 
+```
 
 ## 3Sum
 https://leetcode.com/problems/3sum/
