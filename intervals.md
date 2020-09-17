@@ -3,12 +3,19 @@
 + [merge-intervals](#merge-intervals)
 + [insert-interval](#insert-interval)
 
-##non-overlapping-intervals
+## Non-overlapping-intervals
 https://leetcode.com/problems/non-overlapping-intervals/
-'''
-'''
-##merge-intervals
-https://leetcode.com/problems/merge-intervals/
+```python
 
-##insert-interval
+
+```
+
+## Merge-intervals
+https://leetcode.com/problems/merge-intervals/
+```python
+
+
+```
+
+## Insert-interval
 https://leetcode.com/problems/insert-interval/
