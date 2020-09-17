@@ -1,4 +1,4 @@
-# Trer
+# Tree
 + [binary-tree-inorder-traversal](#binary-tree-inorder-traversal)
 + [symmetric-tree](#symmetric-tree)
 
